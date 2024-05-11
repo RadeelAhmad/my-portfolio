@@ -2,7 +2,7 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://radeel.vercel.app", // replace this with your deployed domain
-  author: "Sat Naing",
+  author: "Radeel Ahmad",
   desc: "Cybersecurity Analyst | Network Security | Pentesting | CTF Player",
   title: "V3c70r",
   ogImage: "astropaper-og.jpg",
