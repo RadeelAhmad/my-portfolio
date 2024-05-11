@@ -3,34 +3,42 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Hello, I'm Radeel Ahmed, a second-year undergraduate student specializing in cybersecurity. My passion lies in the dynamic world of cybersecurity, where I actively engage as a Capture The Flag (CTF) player and contribute to Red Teaming projects. A dedicated cyber enthusiast, I thrive on exploring the intricacies of digital security. Beyond the realm of code and vulnerabilities, I find joy in gaming and football, striking a balance between the virtual and physical worlds. Always eager to learn and adapt, I am committed to honing my skills and making a meaningful impact in the ever-evolving field of cybersecurity.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+## Skills
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+- **Programming Languages**: C++, C#, Java, Bash, and Assembly.
+- **Tools & Frameworks**: Packet Tracer, WireShark, Metasploit, and Nmap.
+- **Platforms**: Linux, Windows, and Cloudflare.
+- **Blogging**: As a hobby, I periodically blog about cybersecurity. You can find my posts on [Medium](https://medium.com/@radeel-a20).
 
-## Features
+## Education
 
-Here are certain features of this site.
+- **Bachelor's in Cyber Security** from [Air University, Islamabad](https://au.edu.pk/) (2022 - 2026)
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+## Certifications
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- Certified ISO/IEC 27001 Information Security Associate
+
+## Achievements
+
+- **4th Place** at [AirTech CTF'24](https://auair.tech/) organized by [Air University Islamabad](https://www.au.edu.pk/), onsite (2024)
+- **5th Place** at [SofTech CTF'24](https://softecnu.org/) organized by [Fast University Lahore](https://lhr.nu.edu.pk/), onsite (2024)
+- **10th Place** at [Digital Pakistan Cyber Security Hackathon](https://cyberhackathon.pk/) organized by [MoITT](https://moitt.gov.pk/) and [IGNITE](https://ignite.org.pk/), onsite in Islamabad (2023)
+- **5th Place** at CyberQuest CTF'23 organized by Sir Syed CASE Institute of Technology, onsite (2023)
+
+## Projects
+
+- [**Digital Wallet**](https://github.com/iabdullah215/Programming-Fundamentals): Developed a C++ based digital wallet with streamlined fund transfer and transaction tracking functionalities.
+- [**GUI Based Network Monitoring System**](https://github.com/iabdullah215/OOP2): Designed a GUI Network Monitoring System using C# with user-friendly graphical interfaces for exploring network functionalities.
+- [**Blockchain Implementation**](https://github.com/mun1bxD/BlockChain): Developed a Java-based blockchain with features like user authentication, transaction tracking, and dynamic coin rate fluctuation. This project was a collaborative effort with [Muhammad Munib](https://www.linkedin.com/in/muhammad-munib-nawaz-7b8129292/), [Radeel Ahmed](https://www.linkedin.com/in/radeel-ahmad-866a50293/), and [Husnain Tahir](https://www.linkedin.com/in/husnain-tahir-551921225/).
+
+## Additional Experiences
+
+- **Red Team** at [Air University Cyber Security Society](https://aucss-beta.vercel.app/) (Dec 2023 - Present)
+- **Member - Cyber Research Club** at [Air University Cyber Security Society](https://aucss-beta.vercel.app/) (Feb 2024 - Present)
+- **Core Member - Management Club** at [Air University Cyber Security Society](https://aucss-beta.vercel.app/) (Jan 2023 - June 2023)
