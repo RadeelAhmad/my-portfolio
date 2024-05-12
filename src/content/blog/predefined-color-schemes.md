@@ -1,5 +1,5 @@
 ---
-author: Sat Naing
+author: Radeel Ahmad
 pubDatetime: 2022-09-26T12:13:24Z
 modDatetime: 2024-01-04T09:09:06Z
 title: Predefined color schemes
@@ -13,9 +13,7 @@ description:
   theme.
 ---
 
-I've crafted some predefined color schemes for this AstroPaper blog theme. You can replace these color schemes with the original ones.
-
-If you don't know how you can configure color schemes, check [this blog post](https://astro-paper.pages.dev/posts/customizing-astropaper-theme-color-schemes/).
+I've crafted some predefined color schemes for this website theme. You can replace these color schemes with the original ones.
 
 ## Table of contents
 
@@ -167,6 +165,8 @@ html[data-theme="dark"] {
 ```
 
 ### AstroPaper v4 Special (New dark theme in AstroPaper 4)
+
+**In Use**
 
 ![AstroPaper v4 new theme](https://github.com/satnaing/astro-paper/assets/53733092/66eb74dc-7a0e-4f2e-982d-25f5c443b25a)
 
