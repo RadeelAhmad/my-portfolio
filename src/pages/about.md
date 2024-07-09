@@ -25,6 +25,7 @@ Hello, I'm Radeel Ahmed, a second-year undergraduate student specializing in cyb
 - Certified ISO/IEC 27001 Information Security Associate
 - Certified Network Security Practitione (CNSP) By [SecOps Group's](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXc0VJG8tlbjIaEkTf3LQglimE6Y5o+7HTh2P9c81o3MJXqHe5G6NaDS+t4eBBT4f7hfIciZDaDe9YkJ4vRIxPf0=)
 - Network Defence Essentials (NDE) By [EC-Council](https://codered.eccouncil.org/certificate/a533edb5-3d01-4a8c-898e-b9ef6c0da2d6?logged=true)
+- Bookme Ambassadors 
   
 ## Achievements
 
@@ -44,3 +45,4 @@ Hello, I'm Radeel Ahmed, a second-year undergraduate student specializing in cyb
 - **Red Team** at [Air University Cyber Security Society](https://aucss-beta.vercel.app/) (Dec 2023 - Present)
 - **Member - Cyber Research Club** at [Air University Cyber Security Society](https://aucss-beta.vercel.app/) (Feb 2024 - Present)
 - **Core Member - Management Club** at [Air University Cyber Security Society](https://aucss-beta.vercel.app/) (Jan 2023 - June 2023)
+- **Team - Event Management** at Bookme (Jan 2024 - Present)
