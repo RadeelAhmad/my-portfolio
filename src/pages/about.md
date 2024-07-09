@@ -23,7 +23,7 @@ Hello, I'm Radeel Ahmed, a second-year undergraduate student specializing in cyb
 ## Certifications
 
 - Certified ISO/IEC 27001 Information Security Associate
-- Certified Network Security Practitione (CNSP) By [SecOps Group's](https://secops.group/product/certified-network-security-practitioner/)
+- Certified Network Security Practitione (CNSP) By [SecOps Group's](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXc0VJG8tlbjIaEkTf3LQglimE6Y5o+7HTh2P9c81o3MJXqHe5G6NaDS+t4eBBT4f7hfIciZDaDe9YkJ4vRIxPf0=)
 - Network Defence Essentials (NDE) By [EC-Council](https://codered.eccouncil.org/certificate/a533edb5-3d01-4a8c-898e-b9ef6c0da2d6?logged=true)
   
 ## Achievements
