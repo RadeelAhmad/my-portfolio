@@ -36,7 +36,7 @@ Hello, I'm Radeel Ahmed, a second-year undergraduate student specializing in cyb
 
 ## Projects
 
-- [**Digital Wallet**](https://github.com/iabdullah215/Programming-Fundamentals): Developed a C++ based digital wallet with streamlined fund transfer and transaction tracking functionalities.
+- [**Digital Wallet**](https://github.com/RadeelAhmad/Digital-Wallet/tree/main): Developed a C++ based digital wallet with streamlined fund transfer and transaction tracking functionalities.
 - [**GUI Based Network Monitoring System**](https://github.com/iabdullah215/OOP2): Designed a GUI Network Monitoring System using C# with user-friendly graphical interfaces for exploring network functionalities.
 - [**Blockchain Implementation**](https://github.com/RadeelAhmad/BlockChain): Developed a Java-based blockchain with features like user authentication, transaction tracking, and dynamic coin rate fluctuation. This project was a collaborative effort with [Muhammad Munib](https://www.linkedin.com/in/muhammad-munib-nawaz-7b8129292/), [Muhammad Abdullah](https://www.linkedin.com/in/muhammad-abdullah-691a1026a/), and [Husnain Tahir](https://www.linkedin.com/in/husnain-tahir-551921225/).
 - [**Bash Chat**](https://github.com/iabdullah215/CS225-L/tree/main/Project): The Bash Chat Application is a simple yet effective way to facilitate communication between users on a local network. Leveraging the power of Bash scripting and the networking capabilities of Netcat, this application allows users to chat with each other in a terminal environment.
