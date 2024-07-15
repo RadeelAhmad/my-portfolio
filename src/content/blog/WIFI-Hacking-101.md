@@ -2,7 +2,7 @@
 title: Wifi Hacking
 author: Radeel Ahmad
 pubDatetime: 2024-05-16T12:22:23Z
-slug: Hacking Wifi
+slug:  Wifi hacking 101
 featured: false
 draft: false
 tags:
