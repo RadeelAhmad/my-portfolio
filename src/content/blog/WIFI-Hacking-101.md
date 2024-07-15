@@ -2,7 +2,7 @@
 title: Wifi Hacking 101
 author: Radeel Ahmad
 pubDatetime: 2024-05-12T12:22:23Z
-slug: Hacking Wifi Using a Network Adapter
+slug: Hacking Wifi
 featured: false
 draft: false
 tags:
