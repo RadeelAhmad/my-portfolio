@@ -29,7 +29,7 @@ After connecting the network adapter, open the Kali Linux machine and write the 
 iwconfig
 ```
 
-![image2](Images/WH-2.jpg)
+![image1](src/content/blog/Images/WH-11.png)
 
 When we connect the adapter, you’ll see the wlan0 interface on your terminal screens. To change the mode to `Monitor Mode`, use the following command.
 
