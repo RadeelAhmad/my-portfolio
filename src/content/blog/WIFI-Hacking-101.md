@@ -10,6 +10,7 @@ tags:
   - wireless-hacking
   - wifi-hacking
 ogImage: https://res.cloudinary.com/noezectz/v1663745737/astro-paper/astropaper-x-forestry-og_kqfwp0.png
+
 description:
   step-by-step method to hack WIFI using a network adapter.
 ---
@@ -22,7 +23,7 @@ description:
 
 The network adapter I am using for this attack demo is **Alpha’s AWUS036H**.
 
-![Network Adapter](my-portfolio/src/content/blog/Images/WH-1.jpg)
+![Network Adapter](https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/WH-1.jpg)
 
 After connecting the network adapter, open the Kali Linux machine and write the followingcommand on the terminal.
 
