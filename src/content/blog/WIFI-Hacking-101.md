@@ -9,7 +9,7 @@ tags:
   - hacking
   - wireless-hacking
   - wifi-hacking
-ogImage: https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/src/content/blog/Images/astropaper-x-forestry-og.png
+ogImage: https://res.cloudinary.com/noezectz/v1663745737/astro-paper/astropaper-x-forestry-og_kqfwp0.png
 description:
   step-by-step method to hack WIFI using a network adapter.
 ---
