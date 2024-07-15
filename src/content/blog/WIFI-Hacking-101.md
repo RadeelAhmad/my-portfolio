@@ -23,7 +23,7 @@ description:
 
 The network adapter I am using for this attack demo is **Alpha’s AWUS036H**.
 
-![Network Adapter](https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/WH-1.jpg)
+![Network Adapter](https://asset.cloudinary.com/dssxmlpy6/eb27c3bb9d94c053dc723f7c2a80961f)
 
 After connecting the network adapter, open the Kali Linux machine and write the followingcommand on the terminal.
 
