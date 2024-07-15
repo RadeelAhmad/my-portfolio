@@ -12,8 +12,6 @@ This website serves as a platform for me to display my portfolio, including proj
 
 A template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
 
-**Web-Template**: https://next-contentlayer.vercel.app
-
 Clone this repository to your local machine:
 
 ```bash
