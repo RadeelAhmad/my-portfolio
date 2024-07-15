@@ -19,7 +19,7 @@ description:
 - Kali Linux Machine (attacking machine)
 - Network Adapter
 
-## Let’s Start…..
+## Let’s Start…
 
 The network adapter I am using for this attack demo is **Alpha’s AWUS036H**.
 
