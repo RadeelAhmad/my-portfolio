@@ -25,7 +25,9 @@ The network adapter I am using for this attack demo is **Alpha’s AWUS036H**.
 
 After connecting the network adapter, open the Kali Linux machine and write the followingcommand on the terminal.
 
+```code
 iwconfig
+```
 
 When we connect the adapter, you’ll see the wlan0 interface on your terminal screens. To change the mode to Monitor Mode, use the following command.
 
