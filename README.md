@@ -54,19 +54,6 @@ Documentation can be read in two formats\_ _markdown_ & _blog post_.
 - Customize Color Schemes - [markdown](src/content/blog/customizing-astropaper-theme-color-schemes.md) | [blog post](https://astro-paper.pages.dev/posts/customizing-astropaper-theme-color-schemes/)
 - Predefined Color Schemes - [markdown](src/content/blog/predefined-color-schemes.md) | [blog post](https://astro-paper.pages.dev/posts/predefined-color-schemes/)
 
-## 💻 Tech Stack
-
-**Main Framework** - [Astro](https://astro.build/)  
-**Type Checking** - [TypeScript](https://www.typescriptlang.org/)  
-**Component Framework** - [ReactJS](https://reactjs.org/)  
-**Styling** - [TailwindCSS](https://tailwindcss.com/)  
-**UI/UX** - [Figma](https://figma.com)  
-**Fuzzy Search** - [FuseJS](https://fusejs.io/)  
-**Icons** - [Boxicons](https://boxicons.com/) | [Tablers](https://tabler-icons.io/)  
-**Code Formatting** - [Prettier](https://prettier.io/)  
-**Deployment** - [Cloudflare Pages](https://pages.cloudflare.com/)  
-**Illustration in About Page** - [https://freesvgillustration.com](https://freesvgillustration.com/)  
-**Linting** - [ESLint](https://eslint.org)
 
 ## 👨🏻‍💻 Running Locally
 
