@@ -35,17 +35,6 @@ export default defineConfig({
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
     },
-    build: {
-      rollupOptions: {
-        input: {
-          // Ensure Vite knows how to handle your image path
-          "Images/WH-1.jpg": "/src/content/blog/Images/WH-1.jpg",
-        },
-        output: {
-          assetFileNames: "assets/[name].[ext]",
-        },
-      },
-    },
   },
   scopedStyleStrategy: "where",
 });
