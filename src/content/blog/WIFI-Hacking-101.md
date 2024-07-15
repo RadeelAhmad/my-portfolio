@@ -85,7 +85,7 @@ sudo aireplay-ng -–deauth 0 -a <target-mac> wlan0
 
 If a disconnected client tries to connect with the wifi, they generate a four-way handshake.
 
-**What is a four-way handshake?**
+> **What is a four-way handshake?**
 A four-way handshake is a message exchange between an access point and the client device.
 
 ![image1](https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/WH-9.png)
