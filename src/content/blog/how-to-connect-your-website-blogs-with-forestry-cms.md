@@ -30,7 +30,7 @@ In this article, I will explain step by step process of connecting your website 
 First of all, you have to create an account at [Forestry website](https://app.forestry.io/login "Forestry Login Page"). I usually sign up with my Github account.
 
 ![Forestry Login page](https://res.cloudinary.com/noezectz/v1663739096/astro-paper/Forestry-io_hk5yzv.png)
-<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/WH-1.jpg" alt="Network Adapter">
+
 
 ## Import AstroPaper site (repository)
 
