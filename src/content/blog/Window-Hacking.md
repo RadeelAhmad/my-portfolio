@@ -60,10 +60,10 @@ After you enter the script, press Enter, and BOOM 🤯! Just kidding, nothing si
 
 Here we can see `Session ID` — `IP Address` — `OS Type` — `User` — `Status`.
 
-Using the ‘shell + session ID’ command allows you to gain control over the victim’s computer andexecute various commands.
+Using the `shell + session ID` command allows you to gain control over the victim’s computer andexecute various commands.
 
 
-We use systeminfo command to see the detail of victim’s machine.
+We use `systeminfo` command to see the detail of victim’s machine.
 
 
 WE SUCCESSFULLY EXPLOIT VULNERABILITIES WITHIN THE WINDOWS 11 PRO OPERATING SYSTEM TO GAIN UNAUTHORIZED ACCESS 😈.
@@ -73,6 +73,6 @@ WE SUCCESSFULLY EXPLOIT VULNERABILITIES WITHIN THE WINDOWS 11 PRO OPERATING SYST
 - If the victim closes the PowerShell, it won’t stop the reverse shell.
 - The PowerShell command remains hidden and isn’t detected by Defender and other advanced antivirus programs.
 
-Thank You for reading this article. I hope that you have found this information provided to be valuable and helpful. Use it for educational purpose only…. 🙂
+---
 
-RADEEL AHMAD
+Thank You for reading this article. I hope that you have found this information provided to be valuable and helpful. Use it for educational purpose only…. 🙂
