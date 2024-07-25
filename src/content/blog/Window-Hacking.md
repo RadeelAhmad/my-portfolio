@@ -22,7 +22,7 @@ Open Kali machine and open Firefox, then download the [**Villain**](https://gith
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/1.png" alt="Wifi hacking">
 
 Now, open Villain after downloading.
-
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/2.png" alt="Wifi hacking">
 
 Install the requirement for the tool using the following command.
 ```bash
