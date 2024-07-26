@@ -83,5 +83,4 @@ WE SUCCESSFULLY EXPLOIT VULNERABILITIES WITHIN THE WINDOWS 11 PRO OPERATING SYST
 - The PowerShell command remains hidden and isn’t detected by Defender and other advanced antivirus programs.
 
 ---
-
 Thank You for reading this article. I hope that you have found this information provided to be valuable and helpful. Use it for educational purpose only…. 🙂
