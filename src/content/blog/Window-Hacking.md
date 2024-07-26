@@ -63,14 +63,17 @@ Fully updated. Windows 11. Everything is turned on for Defender protection and t
 
 After you enter the script, press Enter, and BOOM 🤯! Just kidding, nothing significant will happen on the victim’s machine. However, you will observe a session opening on your terminal.
 
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/7.png" alt="Wifi hacking">
 
 Here we can see `Session ID` — `IP Address` — `OS Type` — `User` — `Status`.
 
 Using the `shell + session ID` command allows you to gain control over the victim’s computer andexecute various commands.
 
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/8.png" alt="Wifi hacking">
 
 We use `systeminfo` command to see the detail of victim’s machine.
 
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/9.png" alt="Wifi hacking">
 
 WE SUCCESSFULLY EXPLOIT VULNERABILITIES WITHIN THE WINDOWS 11 PRO OPERATING SYSTEM TO GAIN UNAUTHORIZED ACCESS 😈.
 
