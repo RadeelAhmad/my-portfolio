@@ -56,7 +56,8 @@ In this script enter the IP of your kali machine by using `ifconfig` command you
 
 Fully updated. Windows 11. Everything is turned on for Defender protection and the firewall. Please check the screenshots below for confirmation.
 
-
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/5.png" alt="Wifi hacking">
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/6.png" alt="Wifi hacking">
 
 ## In Kali Linux
 
