@@ -59,6 +59,7 @@ Fully updated. Windows 11. Everything is turned on for Defender protection and t
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/5.png" alt="Wifi hacking">
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/6.png" alt="Wifi hacking">
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/10.png" alt="Wifi hacking">
+
 ## In Kali Linux
 
 After you enter the script, press Enter, and BOOM 🤯! Just kidding, nothing significant will happen on the victim’s machine. However, you will observe a session opening on your terminal.
