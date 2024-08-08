@@ -1,16 +1,16 @@
 ---
-title: Wifi Hacking
+title: Cookies Hijacking
 author: Radeel Ahmad
-pubDatetime: 2024-05-16T12:22:23Z
-slug:  Wifi hacking 101
+pubDatetime: 2024-08-8T12:22:23Z
+slug:  cookies hijacking 101
 featured: false
 draft: false
 tags:
   - hacking
   - wireless-hacking
-  - wifi-hacking
+  - cookies-hijacking
 
 
 description:
-  step-by-step method to hack WIFI using a network adapter.
+  step-by-step method to steal cookies.
 ---
