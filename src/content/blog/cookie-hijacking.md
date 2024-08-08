@@ -39,3 +39,8 @@ Following are the Tools used in this Project:
 We need to install DVWA in our kali machine. It’s insecure web application designed to ne used 
 for leaning and testing tool for Security. It is legal and safe environment to explore and 
 understand common web application vulnerabilities.
+
+**First of all, we go to web server directory using**
+```bash
+cd /var/www/html
+```
