@@ -70,3 +70,13 @@ Now we open config.inc.php in no terminal and change default db_user to admin an
 ```bash
 sudo nano config.inc.php
 ```
+
+
+
+DVWA configuration has been completed.
+
+
+Now we set database for DVWA.
+```bash
+sudo service mysql start
+```
