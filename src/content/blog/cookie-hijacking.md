@@ -41,32 +41,32 @@ for leaning and testing tool for Security. It is legal and safe environment to e
 understand common web application vulnerabilities.
 
 
-- First of all, we go to web server directory using.
+First of all, we go to web server directory using.
 ```bash
 cd /var/www/html
 ```
 
-- Now we clone DVWA using git clone command.
+Now we clone DVWA using git clone command.
 ```bash
 sudo git clone https://github.com/digininja/DVWA.git
 ```
 
-- Giving executable permission to DVWA directory.
+Giving executable permission to DVWA directory.
 ```bash
 sudo chmod -R 777 DVWA
 ```
 
-- Now we use cd command to go inside config directory with in DVWA.
+Now we use cd command to go inside config directory with in DVWA.
 ```bash
 cd DVWA/config
 ```
 
-- Now make copy of config.inc.php.dist file in same directory because original may be use in future.
+Now make copy of config.inc.php.dist file in same directory because original may be use in future.
 ```bash
 sudo cp config.inc.php.dist config.inc.php
 ```
 
-- Now we open config.inc.php in no terminal and change default db_user to admin and db_password to password.
+Now we open config.inc.php in no terminal and change default db_user to admin and db_password to password.
 ```bash
 sudo nano config.inc.php
 ```
@@ -75,7 +75,7 @@ sudo nano config.inc.php
 
 DVWA configuration has been completed.
 
-- Now we set database for DVWA.
+Now we set database for DVWA.
 ```bash
 sudo service mysql start
 ```
