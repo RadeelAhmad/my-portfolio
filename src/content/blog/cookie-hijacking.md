@@ -56,3 +56,17 @@ Giving executable permission to DVWA directory
 sudo chmod -R 777 DVWA
 ```
 
+Now we use cd command to go inside config directory with in DVWA
+```bash
+cd DVWA/config
+```
+
+Now make copy of config.inc.php.dist file in same directory because original may be use in future.
+```bash
+sudo cp config.inc.php.dist config.inc.php
+```
+
+Now we open config.inc.php in no terminal and change default db_user to admin and db_password to password.
+```bash
+sudo nano config.inc.php
+```
