@@ -41,22 +41,22 @@ for leaning and testing tool for Security. It is legal and safe environment to e
 understand common web application vulnerabilities.
 
 
-First of all, we go to web server directory using
+First of all, we go to web server directory using.
 ```bash
 cd /var/www/html
 ```
 
-Now we clone DVWA using git clone command
+Now we clone DVWA using git clone command.
 ```bash
 sudo git clone https://github.com/digininja/DVWA.git
 ```
 
-Giving executable permission to DVWA directory
+Giving executable permission to DVWA directory.
 ```bash
 sudo chmod -R 777 DVWA
 ```
 
-Now we use cd command to go inside config directory with in DVWA
+Now we use cd command to go inside config directory with in DVWA.
 ```bash
 cd DVWA/config
 ```
