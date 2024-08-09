@@ -71,7 +71,7 @@ Now we open config.inc.php in no terminal and change default db_user to admin an
 sudo nano config.inc.php
 ```
 
-<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/WH-1.jpg" alt="cookies hijacking">
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-1.jpg" alt="cookies hijacking">
 
 DVWA configuration has been completed.
 
