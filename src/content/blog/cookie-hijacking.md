@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - hacking
-  - wireless-hacking
+  - session-hacking
   - cookies-hijacking
 
 
