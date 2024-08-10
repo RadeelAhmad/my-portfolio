@@ -79,3 +79,19 @@ Now we set database for DVWA.
 ```bash
 sudo service mysql start
 ```
+
+Now login into mysql server as a root user
+```bash
+sudo mysql -u root -p
+```
+
+Create database for DVWA
+```bash
+create database dvwa
+```
+Because in configuration file we set the database name dvwa
+
+Now we create user in database
+```bash
+create user 'admin'@'127.0.0.1' identified by 'password';
+```
