@@ -115,3 +115,4 @@ nano php.ini
 ```
 
 In this file turn ON allow_url_fopen and allow_url_include.
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-2.jpg" alt="cookies hijacking">
