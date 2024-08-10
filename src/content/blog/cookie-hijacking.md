@@ -103,13 +103,15 @@ grant all privileges on dvwa.* to 'admin'@'127.0.0.1';
 
 Exit for mysql server using `exit` command.
 
-**Now we start apache2 service on kali machine**
+**Now we start apache2 service on kali machine.**
 ```bash
 sudo service apache2 start.
 ```
 
-Now we have to do some changes in php configuration
+Now we have to do some changes in php configuration.
 ```bash
 cd /etc/php/<php version>/apache2
 nano php.ini
 ```
+
+In this file turn ON allow_url_fopen and allow_url_include.
