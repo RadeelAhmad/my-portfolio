@@ -95,3 +95,13 @@ Now we create user in database.
 ```bash
 create user 'admin'@'127.0.0.1' identified by 'password';
 ```
+
+Here we grant all privilege to user.
+```bash
+grant all privileges on dvwa.* to 'admin'@'127.0.0.1';
+```
+
+Exit for mysql server using `exit` command.
+
+**Now we start apache2 service on kali machine**
+Command: sudo service apache2 start.
