@@ -120,4 +120,4 @@ In this file turn ON allow_url_fopen and allow_url_include.
 **Now DVWM is install and configure in our kali machine we can simple check it by entering in URL `127.0.0.1/DVWA`**.
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-3.jpg" alt="cookies hijacking">
 
-
+Enter user `name` and `password` as set before, i.e. `admin` and `password`.
