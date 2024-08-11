@@ -123,6 +123,7 @@ In this file turn ON allow_url_fopen and allow_url_include.
 Enter user `name` and `password` as set before, i.e. `admin` and `password`.
 
 **Mechanism of session hijacking practical:**
+
 The first step in Session Hijacking is stealing the victim’s cookie, which can be done in many 
 ways. We will capture packets between a client and the webserver with Wireshark. Then, we’ll 
 capture the victim’s cookie and send it to the attacker.
