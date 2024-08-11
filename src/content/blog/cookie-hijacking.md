@@ -130,6 +130,7 @@ Open Firefox in Kali Linux. In Firefox, type the following into the URL bar and 
 ```bash
 http://<Machine_ip>/DVWA/
 ```
+Open Wireshark in Kali Linux and select the shark fin to Start capturing packets.
 
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-4.jpg" alt="cookies hijacking">
 
