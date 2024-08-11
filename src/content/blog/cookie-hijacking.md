@@ -147,3 +147,4 @@ On the DVWA application, in quick succession, select the below three different p
 - Brute Force
 - CSRF
 - File Upload
+
