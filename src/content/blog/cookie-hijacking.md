@@ -126,6 +126,7 @@ Enter user `name` and `password` as set before, i.e. `admin` and `password`.
 The first step in Session Hijacking is stealing the victim’s cookie, which can be done in many 
 ways. We will capture packets between a client and the webserver with Wireshark. Then, we’ll 
 capture the victim’s cookie and send it to the attacker.
+
 Open Firefox in Kali Linux. In Firefox, type the following into the URL bar and press Enter:
 ```bash
 http://<Machine_ip>/DVWA/
@@ -138,3 +139,7 @@ Type `Username`: `admin` and `Password`: `password`.
 
 Scroll to the bottom of the DVWA Welcome page and confirm you are logged in as Username: **admin**
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-5.jpg" alt="cookies hijacking">
+On the DVWA application, in quick succession, select the below three different pages from the left-side menu, one after the other:
+- Brute Force
+- CSRF
+- File Upload
