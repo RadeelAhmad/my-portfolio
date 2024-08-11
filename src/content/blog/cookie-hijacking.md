@@ -121,4 +121,14 @@ In this file turn ON allow_url_fopen and allow_url_include.
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-3.jpg" alt="cookies hijacking">
 
 Enter user `name` and `password` as set before, i.e. `admin` and `password`.
+
+**Mechanism of session hijacking practical:**
+The first step in Session Hijacking is stealing the victim’s cookie, which can be done in many 
+ways. We will capture packets between a client and the webserver with Wireshark. Then, we’ll 
+capture the victim’s cookie and send it to the attacker.
+Open Firefox in Kali Linux. In Firefox, type the following into the URL bar and press Enter:
+```bash
+http://<Machine_ip>/DVWA/
+```
+
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-4.jpg" alt="cookies hijacking">
