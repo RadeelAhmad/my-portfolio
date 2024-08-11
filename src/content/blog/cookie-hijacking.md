@@ -127,7 +127,7 @@ The first step in Session Hijacking is stealing the victim’s cookie, which can
 ways. We will capture packets between a client and the webserver with Wireshark. Then, we’ll 
 capture the victim’s cookie and send it to the attacker.
 Open Firefox in Kali Linux. In Firefox, type the following into the URL bar and press Enter:
-```url
+```bash
 http://<Machine_ip>/DVWA/
 ```
 
