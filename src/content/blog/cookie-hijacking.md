@@ -136,3 +136,4 @@ http://<Machine_ip>/DVWA/
 Type `Username`: `admin` and `Password`: `password`.
 
 Scroll to the bottom of the DVWA Welcome page and confirm you are logged in as Username: **admin**
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-5.jpg" alt="cookies hijacking">
