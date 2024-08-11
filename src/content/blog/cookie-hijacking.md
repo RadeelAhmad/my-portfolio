@@ -140,6 +140,7 @@ Type `Username`: `admin` and `Password`: `password`.
 
 Scroll to the bottom of the DVWA Welcome page and confirm you are logged in as Username: **admin**
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-5.jpg" alt="cookies hijacking">
+
 On the DVWA application, in quick succession, select the below three different pages from the left-side menu, one after the other:
 - Brute Force
 - CSRF
