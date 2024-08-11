@@ -121,3 +121,4 @@ In this file turn ON allow_url_fopen and allow_url_include.
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-3.jpg" alt="cookies hijacking">
 
 Enter user `name` and `password` as set before, i.e. `admin` and `password`.
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-4.jpg" alt="cookies hijacking">
