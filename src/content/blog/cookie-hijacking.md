@@ -177,4 +177,10 @@ sudo nano cookies
 ```
 
 Paste cookie content in the created file.
+
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-11.jpg" alt="cookies hijacking">
+
+In Windows 10, open the Microsoft Edge browser and paste `<Machine_IP>/share/`. This will open 
+a page containing various files, including the cookies file.
+
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-12.jpg" alt="cookies hijacking">
