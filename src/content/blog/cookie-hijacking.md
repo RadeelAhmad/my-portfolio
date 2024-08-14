@@ -166,7 +166,7 @@ In the middle frame, expand the Hypertext Transfer Protocol element.
 
 Every new session generates a new cookie from the web server (displayed here as Cookie pair:
 
-PHPSESSID=<YOUR COOKIE>.
+`PHPSESSID=<YOUR COOKIE>`.
 
 In the middle frame, right-click on the Cookie pair: `PHPSESSID line`, then select Copy > as Printable Text
 
