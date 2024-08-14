@@ -163,3 +163,15 @@ Search in the upper-frame Info column for a `GET` request. Select the `GET` requ
 
 In the middle frame, expand the Hypertext Transfer Protocol element.
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-9.jpg" alt="cookies hijacking">
+
+Every new session generates a new cookie from the web server (displayed here as Cookie pair:
+
+**PHPSESSID=<YOUR COOKIE>**.
+
+In the middle frame, right-click on the Cookie pair: `PHPSESSID line`, then select Copy > as Printable Text
+
+Create file and open it in nano editor
+```bash
+cd /var/www/html/share
+sudo nano cookies
+```
