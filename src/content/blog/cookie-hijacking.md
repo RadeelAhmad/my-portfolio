@@ -148,4 +148,5 @@ On the DVWA application, in quick succession, select the below three different p
 - CSRF
 - File Upload
 
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-7.jpg" alt="cookies hijacking">
 
