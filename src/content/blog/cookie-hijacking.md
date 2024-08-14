@@ -166,12 +166,15 @@ In the middle frame, expand the Hypertext Transfer Protocol element.
 
 Every new session generates a new cookie from the web server (displayed here as Cookie pair:
 
-`PHPSESSID=<YOUR COOKIE>`.
+`PHPSESSID=<YOUR COOKIE>`
 
 In the middle frame, right-click on the Cookie pair: `PHPSESSID line`, then select Copy > as Printable Text
 
-Create file and open it in nano editor
+Create file and open it in nano editor.
 ```bash
 cd /var/www/html/share
 sudo nano cookies
 ```
+
+Paste cookie content in the created file.
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-11.jpg" alt="cookies hijacking">
