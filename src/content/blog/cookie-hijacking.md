@@ -159,3 +159,7 @@ Type the following into the Apply a display filter field and press Enter:
 
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-8.jpg" alt="cookies hijacking">
 
+Search in the upper-frame Info column for a `GET` request. Select the `GET` request packet.
+
+In the middle frame, expand the Hypertext Transfer Protocol element.
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-9.jpg" alt="cookies hijacking">
