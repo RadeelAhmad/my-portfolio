@@ -155,6 +155,7 @@ the page change are grouped in Wireshark and are easy to recognize.
 
 In Wireshark, select the Stop capturing packets.
 Type the following into the Apply a display filter field and press Enter:
+
  `ip.dst== <Machine_ip>`
 
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-8.jpg" alt="cookies hijacking">
