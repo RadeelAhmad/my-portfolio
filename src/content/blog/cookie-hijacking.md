@@ -150,3 +150,9 @@ On the DVWA application, in quick succession, select the below three different p
 
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-7.jpg" alt="cookies hijacking">
 
+The objective is to select multiple pages in quick succession so that the GET requests that initiate 
+the page change are grouped in Wireshark and are easy to recognize.
+
+In Wireshark, select the Stop capturing packets.
+Type the following into the Apply a display filter field and press Enter:
+ `ip.dst== <Machine_ip>`
