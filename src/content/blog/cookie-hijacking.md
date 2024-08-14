@@ -184,3 +184,6 @@ In Windows 10, open the Microsoft Edge browser and paste `<Machine_IP>/share/`. 
 a page containing various files, including the cookies file.
 
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-12.jpg" alt="cookies hijacking">
+
+Click on the cookie file, then navigate to the three dots, and in the cookies area, paste the copied 
+cookies, as shown in the figure below.
