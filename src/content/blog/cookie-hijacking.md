@@ -191,7 +191,7 @@ cookies, as shown in the figure below.
 
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-13.jpg" alt="cookies hijacking">
 
-Now, paste the IP address/DVWA/index.php again in the Microsoft Edge browser. It will log in to 
+Now, paste the `IP-address/DVWA/index.php` again in the Microsoft Edge browser. It will log in to 
 victim account without asking for a username and password.
 
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-14.jpg" alt="cookies hijacking">
@@ -212,4 +212,4 @@ specific URL, and pasting the copied cookies to gain unauthorized access.
 
 The project successfully demonstrated the vulnerability of web applications to session hijacking 
 attacks and highlighted the importance of securing sessions, especially through measures such as 
-encryption and secure cookie handling
+encryption and secure cookie handling.
