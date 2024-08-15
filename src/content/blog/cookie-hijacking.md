@@ -193,3 +193,6 @@ cookies, as shown in the figure below.
 
 Now, paste the IP address/DVWA/index.php again in the Microsoft Edge browser. It will log in to 
 victim account without asking for a username and password.
+
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-14.jpg" alt="cookies hijacking">
+
