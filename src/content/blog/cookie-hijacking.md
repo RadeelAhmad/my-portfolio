@@ -188,3 +188,8 @@ a page containing various files, including the cookies file.
 
 Click on the cookie file, then navigate to the three dots, and in the cookies area, paste the copied 
 cookies, as shown in the figure below.
+
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-13.jpg" alt="cookies hijacking">
+
+Now, paste the IP address/DVWA/index.php again in the Microsoft Edge browser. It will log in to 
+victim account without asking for a username and password.
