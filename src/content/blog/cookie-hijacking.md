@@ -196,3 +196,20 @@ victim account without asking for a username and password.
 
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-14.jpg" alt="cookies hijacking">
 
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/CH-15.jpg" alt="cookies hijacking">
+
+## Conclusion: 
+The mechanism of session hijacking involved capturing packets between a client and a web server 
+using Wireshark, extracting the victim's cookie, and then using that cookie to impersonate the 
+victim's session on a targeted website. The steps included opening Firefox in Kali Linux, logging 
+into DVWA with specific credentials, capturing packets with Wireshark, and copying the victim's 
+cookie for later use.
+
+In the practical demonstration, it was shown how an attacker, by using the victim's captured 
+cookie, could log in to the victim's account on the DVWA website without requiring a username 
+and password. The steps involved opening Microsoft Edge in Windows 10, navigating to a 
+specific URL, and pasting the copied cookies to gain unauthorized access.
+
+The project successfully demonstrated the vulnerability of web applications to session hijacking 
+attacks and highlighted the importance of securing sessions, especially through measures such as 
+encryption and secure cookie handling
