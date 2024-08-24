@@ -11,6 +11,8 @@ tags:
 description: "Hacking Window 11 Using PowerShell Script"
 ---
 
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/d6afb6c5702631ed7e304d2ac40fb4f2.gif" alt="Description of GIF" width="500">
+
 ## Requirements
 - Kali Linux Machine (attacking machine)
 - Windows 11 (victim machine)
