@@ -15,6 +15,8 @@ description:
   step-by-step method to steal cookies.
 ---
 
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/d6afb6c5702631ed7e304d2ac40fb4f2.gif" alt="Description of GIF" width="500">
+
 ## Introduction: 
 Session hijacking is attack in which an attacker intercepts and stealth an active session between 
 two end point, often between a user and a web application. This typically include stealing token 
