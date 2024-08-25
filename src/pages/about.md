@@ -16,6 +16,10 @@ Hello, I'm Radeel Ahmed, a second-year undergraduate student specializing in cyb
 - **Platforms**: Linux, Windows, and Cloudflare.
 - **Blogging**: As a hobby, I periodically blog about cybersecurity. You can find my posts on [Medium](https://medium.com/@radeel-a20).
 
+## Experience
+
+- **Cyber Security Analyst** at [NCCS - National Center](https://www.nccs.pk/) Of Cybersecurity in collaboration with [Cybericks](https://cybericks.com/) (June 2024 - Present) [Hybrid]
+
 ## Education
 
 - **Bachelor's in Cyber Security** from [Air University, Islamabad](https://au.edu.pk/) (2022 - 2026)
