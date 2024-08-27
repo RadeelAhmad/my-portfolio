@@ -29,7 +29,7 @@ I will provide a detailed method for deploying **OpenStack** on **CentOS 8**.
 ## Let’s Start…
 First of all, you need to configure your VMware according to the following screenshot.
 
-<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Network Adapter">
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="kypo">
 
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/WH-5.png" alt="Network Adapter">
 
