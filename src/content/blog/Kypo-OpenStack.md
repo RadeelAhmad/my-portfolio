@@ -48,7 +48,7 @@ Please ensure that your internet is working properly and that all adapters are f
 <p align="center">
     <img src="Images/Screenshot202-08-12231720.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 
 ## CentOS
 
@@ -63,13 +63,13 @@ hostnamectl set-hostname openstackio --static
 <p align="center">
     <img src="Images/a.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 To configure your IP with your local host. I use an ens160 IP address. Use the command to map your IP to the local host. The name for the local host should be the same as set in the previous command. Then use the cat command with directories to verify your mapping:
 ```bash
 echo "192.168.186.131 openstackio" >> /etc/hosts
 cat /etc/hosts
 ```
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 <p align="center">
     <img src="Images/b.png" alt="image1">
 </p>
@@ -83,18 +83,18 @@ sed -i 's/^SELINUX=.*/SELINUX=disabled/g' /etc/selinux/config
 <p align="center">
     <img src="Images/c.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 Now use following command the following command to install network
 ```bash
 scripts dnf install network-scripts -y
 ```
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 <p align="center">
     <img src="Images/1.png" alt="image1">
 </p>
 
 Upon completing this, the following output will be displayed.
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 <p align="center">
     <img src="Images/1.1.png" alt="image1">
 </p>
@@ -105,7 +105,7 @@ systemctl disable --now firewalld NetworkManager
 systemctl enable --now network 
 dnf -y install lvm2
 ```
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 <p align="center">
     <img src="Images/d.png" alt="image1">
 </p>
@@ -113,13 +113,13 @@ dnf -y install lvm2
 <p align="center">
     <img src="Images/2.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 Upon completing this, the following output will be displayed.
 
 <p align="center">
     <img src="Images/2.1.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 Now use the following command to check the size and space of the hard drive you added in your VM configuration.
 ```bash
 fdisk -l
@@ -128,7 +128,7 @@ fdisk -l
 <p align="center">
     <img src="Images/e.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 Now use these commands for more configuration making tables and groups in free space.
 
 ```bash
@@ -143,11 +143,11 @@ mkfs.ext4 /dev/nvme0n4
 <p align="center">
     <img src="Images/f.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 <p align="center">
     <img src="Images/g.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 Now use this Command:
 
 ```bash
@@ -157,13 +157,13 @@ yum install dnf-plugins-core
 <p align="center">
     <img src="Images/3.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 Upon completing this, the following output will be displayed.
 
 <p align="center">
     <img src="Images/3.1.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 Then use the following command to enable some power tools etc.
 
 ```bash
@@ -175,11 +175,11 @@ dnf install -y centos-release-openstack-train
 <p align="center">
     <img src="Images/h.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 <p align="center">
     <img src="Images/i.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 After this, we will utilize the following command to install the necessary and additional packages, which will take some time.
 ```bash
 dnf update –y
@@ -188,13 +188,13 @@ dnf update –y
 <p align="center">
     <img src="Images/4.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 Upon completing this, the following output will be displayed.
 
 <p align="center">
     <img src="Images/4.1.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 
 Now it’s time to install OpenStack. Use the following command to install OpenStack. 
 It will also take some time to download and install packages. Also you need some changes in the configuration file in yum.repos.d
@@ -206,13 +206,13 @@ dnf install -y openstack-packstack
 <p align="center">
     <img src="Images/5.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 Upon completing this, the following output will be displayed.
 
 <p align="center">
     <img src="Images/5.1.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 Now use these commands to allow access to file of Configuration.
 
 ```bash
@@ -222,7 +222,7 @@ packstack --gen-answer-file=answer.txt
 <p align="center">
     <img src="Images/Screenshot202-08-13011714.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 Now, use `nano` to edit the configuration file `answer.txt`. Search and make changes to the following lines. Use `ctrl+w` to search and arrows to move the cursor.
 
 - CONFIG_DEFAULT_PASSWORD=admin123
@@ -254,7 +254,7 @@ packstack --answer-file=answer.txt
 <p align="center">
     <img src="Images/6.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 After completing this, run the final command.
 
 ```bash
@@ -264,7 +264,7 @@ dnf install -y wget
 <p align="center">
     <img src="Images/j.png" alt="image1">
 </p>
-
+<img src="https://github.com/RadeelAhmad/my-portfolio/blob/main/src/content/blog/Images/openstack-images/Screenshot202-08-12231805.png" alt="Kypo-Openstack">
 You can access your OpenStack on your browser using:
 
 ```bash
