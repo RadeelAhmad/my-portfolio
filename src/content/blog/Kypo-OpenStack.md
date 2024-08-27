@@ -16,8 +16,6 @@ description:
 
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/d6afb6c5702631ed7e304d2ac40fb4f2.gif" alt="Description of GIF" width="500">
 
-I will provide a detailed method for deploying **OpenStack** on **CentOS 8**.
-
 ## Requirement
 
 - CentOS 8
