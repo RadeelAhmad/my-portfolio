@@ -19,9 +19,10 @@ title: "Certifications"
 ---
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/CertificateOfCompletion_CareerEssentialsinGitHubProfessionalCertificate.pdf" alt="image1" width="400">
-    <p style="margin-left: 20px;">Network Defense Essentials<br>By </p>
+    <iframe src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/CertificateOfCompletion_CareerEssentialsinGitHubProfessionalCertificate.pdf" width="400" height="500"></iframe>
+    <p style="margin-left: 20px;">Network Defense Essentials<br>By [Your Name]</p>
 </div>
+
 
 ---
 
