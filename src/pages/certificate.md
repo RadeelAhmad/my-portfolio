@@ -19,6 +19,13 @@ title: "Certifications"
 ---
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/CertificateOfCompletion_Career Essentials in GitHub Professional Certificate.pdf" alt="image1" width="400">
-    <p style="margin-left: 20px;">Network Defense Essentials<br>By EC-Council</p>
+    <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/CertificateOfCompletion_CareerEssentialsinGitHubProfessionalCertificate.pdf" alt="image1" width="400">
+    <p style="margin-left: 20px;">Network Defense Essentials<br>By </p>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/CertificateOfCompletion_CareerEssentialsinGitHubProfessionalCertificate.pdf" alt="image1" width="400">
+    <p style="margin-left: 20px;">Network Defense Essentials<br>By </p>
 </div>
