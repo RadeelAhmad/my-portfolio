@@ -13,14 +13,14 @@ title: "Certifications"
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/9a5dc0db-25e0-4a2c-9d17-fd31bd71da96.png" alt="image1" width="400">
-    <p style="margin-left: 20px;">Introduction to Dark Web, Anonymity, and Cryptocurrency<br>By EC-Council</p>
+    <p style="margin-left: 20px;"><strong>Introduction to Dark Web</strong><br>By EC-Council</p>
 </div>
 
 ---
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/CertificateOfCompletion_CareerEssentialsinGitHubProfessionalCertificate-1.png" alt="image1" width="400">
-    <p style="margin-left: 20px;">Career Essentials in GitHub<br>By Linkedin, and Github</p>
+    <p style="margin-left: 20px;"><strong>Career Essentials in GitHub</strong>strong><br>By Linkedin, and Github</p>
 </div>
 
 ---
