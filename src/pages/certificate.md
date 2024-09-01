@@ -20,12 +20,12 @@ title: "Certifications"
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/CertificateOfCompletion_CareerEssentialsinGitHubProfessionalCertificate-1.png" alt="image1" width="400">
-    <p style="margin-left: 20px;"><strong>Career Essentials in GitHub</strong>strong><br>By Linkedin, and Github</p>
+    <p style="margin-left: 20px;"><strong>Career Essentials in GitHub</strong><br>By Linkedln, and Github</p>
 </div>
 
 ---
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/CertificateOfCompletion_CareerEssentialsinGitHubProfessionalCertificate.pdf" alt="image1" width="400">
-    <p style="margin-left: 20px;">Network Defense Essentials<br>By </p>
+    <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/CertificateOfCompletion_CareerEssentialsinSystemAdministrationbyMicrosoftandLinkedIn-1.png" alt="image1" width="400">
+    <p style="margin-left: 20px;"><strong>Career Essentials in System Administration</strong><br>By Microsoft, and Linkedln</p>
 </div>
