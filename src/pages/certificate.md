@@ -36,3 +36,10 @@ title: "Certifications"
     <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/RadeelAhmed-CertifiedNetworkSecurityPractitioner(CNSP)-1.png" alt="image1" width="400">
     <p style="margin-left: 20px;"><strong>Certified Network Security Practitioner</strong><br>By The SecOps Group</p>
 </div>
+
+---
+
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/SkillFrontSFE016a74a7284d-4312524795629-1.png" alt="image1" width="400">
+    <p style="margin-left: 20px;"><strong>ISO/IEC 2700:2022 Information Security Associate</strong><br>By Skill Front</p>
+</div>
