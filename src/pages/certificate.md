@@ -7,7 +7,7 @@ title: "Certifications"
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/RadeelAhmed-CertifiedNetworkSecurityPractitioner(CNSP)-1.png" alt="image1" width="400">
-    <p style="margin-left: 20px;"><strong>Certified Network Security Practitioner</strong><br>By The SecOps Group</p>
+    <p style="margin-left: 20px;"><strong>Certified Network<br>Security Practitioner</strong><br>By The SecOps Group</p>
 </div>
 
 ---
