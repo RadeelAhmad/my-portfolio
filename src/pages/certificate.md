@@ -28,7 +28,7 @@ title: "Certifications"
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/CertificateOfCompletion_CareerEssentialsinSystemAdministrationbyMicrosoftandLinkedIn-1.png" alt="image1" width="400">
-    <p style="margin-left: 20px;"><strong>Career Essentials in System Administration</strong><br>By Microsoft, and Linkedln</p>
+    <p style="margin-left: 20px;"><strong>Career Essentials in<br>System Administration</strong><br>By Microsoft, and Linkedln</p>
 </div>
 
 ---
