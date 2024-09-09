@@ -205,7 +205,11 @@ packstack --answer-file=answer.txt
 
 <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/openstack-images/6.png" alt="Kypo-Openstack">
 
-After completing this, run the final command.
+Upon completing this, the following output will be displayed.
+
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/openstack-images/6.1.png" alt="Kypo-Openstack">
+
+Run the final command.
 
 ```bash
 dnf install -y wget
