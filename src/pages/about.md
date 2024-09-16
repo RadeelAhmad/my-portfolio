@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Hello, I'm Radeel Ahmed, a second-year undergraduate student specializing in cybersecurity. My passion lies in the dynamic world of cybersecurity, where I actively engage as a Capture The Flag (CTF) player and contribute to Red Teaming projects. A dedicated cyber enthusiast, I thrive on exploring the intricacies of digital security. Beyond the realm of code and vulnerabilities, I find joy in gaming and football, striking a balance between the virtual and physical worlds. Always eager to learn and adapt, I am committed to honing my skills and making a meaningful impact in the ever-evolving field of cybersecurity.
+Hello, I'm Radeel Ahmed, a third-year undergraduate student specializing in cybersecurity. My passion lies in the dynamic world of cybersecurity, where I actively engage as a Capture The Flag (CTF) player and contribute to Red Teaming projects. A dedicated cyber enthusiast, I thrive on exploring the intricacies of digital security. Beyond the realm of code and vulnerabilities, I find joy in gaming and football, striking a balance between the virtual and physical worlds. Always eager to learn and adapt, I am committed to honing my skills and making a meaningful impact in the ever-evolving field of cybersecurity.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
