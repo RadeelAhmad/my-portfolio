@@ -18,7 +18,7 @@ Hello, I'm Radeel Ahmed, a third-year undergraduate student specializing in cybe
 
 ## Experience
 
-- **Cyber Security Analyst** at [NCCS - National Center](https://www.nccs.pk/) Of Cybersecurity in collaboration with [Cybericks](https://cybericks.com/) (June 2024 - Present) [Hybrid]
+- **Cyber Security Analyst** at [NCCS - National Center](https://www.nccs.pk/) Of Cybersecurity in collaboration with [Cybericks](https://cybericks.com/) (June 2024 - september 2024) [Hybrid]
 
 ## Education
 
