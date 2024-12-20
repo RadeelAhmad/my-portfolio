@@ -33,7 +33,7 @@ Hello, I'm Radeel Ahmed, a third-year undergraduate student specializing in cybe
   
 ## Achievements
 
-- **50th Global Rank** at [Black Hat MEA 2024 CTF](https://blackhatmea.com/) organized by [Flagyard](https://flagyard.com/), onsite in Riyadh,Saudi Arabia(2024)
+- **68th Global Rank** at [Black Hat MEA 2024 CTF](https://blackhatmea.com/) organized by [Flagyard](https://flagyard.com/), onsite in Riyadh,Saudi Arabia(2024)
 - **98th Global Rank** at [CSWA CTF Qualifiers 2024](https://www.csaw.io/ctf) organized by [New York University](https://www.nyu.edu/), online (2024)
 - **4th Place** at [AirTech CTF'24](https://auair.tech/) organized by [Air University Islamabad](https://www.au.edu.pk/), onsite (2024)
 - **5th Place** at [SofTech CTF'24](https://softecnu.org/) organized by [Fast University Lahore](https://lhr.nu.edu.pk/), onsite (2024)
