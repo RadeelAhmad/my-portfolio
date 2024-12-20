@@ -33,9 +33,10 @@ Hello, I'm Radeel Ahmed, a third-year undergraduate student specializing in cybe
   
 ## Achievements
 
+- **98th Global Rank** at [CSWA CTF Qualifiers 2024](https://www.csaw.io/ctf) organized by [New York University](https://www.nyu.edu/), online (2024)
 - **4th Place** at [AirTech CTF'24](https://auair.tech/) organized by [Air University Islamabad](https://www.au.edu.pk/), onsite (2024)
 - **5th Place** at [SofTech CTF'24](https://softecnu.org/) organized by [Fast University Lahore](https://lhr.nu.edu.pk/), onsite (2024)
-- **10th Place** at [Digital Pakistan Cyber Security Hackathon](https://cyberhackathon.pk/) organized by [MoITT](https://moitt.gov.pk/) and [IGNITE](https://ignite.org.pk/), onsite in Islamabad (2023)
+- **7th Place** at [Digital Pakistan Cyber Security Hackathon](https://cyberhackathon.pk/) organized by [MoITT](https://moitt.gov.pk/) and [IGNITE](https://ignite.org.pk/), onsite in Islamabad (2024)
 - **5th Place** at CyberQuest CTF'23 organized by Sir Syed CASE Institute of Technology, onsite (2023)
 
 ## Projects
