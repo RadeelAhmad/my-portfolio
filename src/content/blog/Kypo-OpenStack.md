@@ -223,6 +223,8 @@ You can access your OpenStack on your browser using:
 https://192.168.186.131/dashboard
 ```
 
+<img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/content/blog/Images/openstack-images/Openstack.jpg" alt="Kypo-Openstack">
+
 ## Note:
 
 Please make sure to use your own IP to access your OpenStack Dashboard. When prompted for login credentials at the OpenStack login screen, use the following:
