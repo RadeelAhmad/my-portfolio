@@ -6,7 +6,7 @@ title: "Certifications"
 
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/ISO/IEC-270012022-LeadAuditor.png" alt="image1" width="400">
+    <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/ISOIEC-270012022-LeadAuditor.png" alt="image1" width="400">
     <p style="margin-left: 20px;"><strong>ISO/IEC 27001:2022 Lead Auditor</strong><br>By MASTERMIND</p>
 </div>
 
