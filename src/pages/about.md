@@ -22,7 +22,7 @@ A dedicated cyber enthusiast, I thrive on exploring the intricacies of digital s
 
 ## Experience
 
-- Penetration Tester at [Pakistan National CERT](https://pkcert.gov.pk/) (May 2025 - Present) [On Site]
+- Penetration Tester at [Pakistan National CERT](https://pkcert.gov.pk/) (May 2025 - August 2025) [On Site]
 - **Cyber Security Analyst** at [NCCS - National Center](https://www.nccs.pk/) Of Cybersecurity in collaboration with [Cybericks](https://cybericks.com/) (June 2024 - september 2024) [Hybrid]
 
 
@@ -60,7 +60,8 @@ A dedicated cyber enthusiast, I thrive on exploring the intricacies of digital s
 
 ## Additional Experiences
 
-- **Red Team** at [Air University Cyber Security Society](https://aucss-beta.vercel.app/) (Dec 2023 - Present)
+- **CTF Team Lead** at [Air University Cyber Security Society](https://aucss-beta.vercel.app/) (Feb 2025 - Present)
 - **Member - Cyber Research Club** at [Air University Cyber Security Society](https://aucss-beta.vercel.app/) (Feb 2024 - Present)
-- **Core Member - Management Club** at [Air University Cyber Security Society](https://aucss-beta.vercel.app/) (Jan 2023 - June 2023)
 - **Team - Event Management** at Bookme (Jan 2024 - Present)
+- **Red Team** at [Air University Cyber Security Society](https://aucss-beta.vercel.app/) (Dec 2023 - Jan 2024)
+- **Core Member - Management Club** at [Air University Cyber Security Society](https://aucss-beta.vercel.app/) (Jan 2023 - June 2023)
