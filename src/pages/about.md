@@ -16,13 +16,14 @@ A dedicated cyber enthusiast, I thrive on exploring the intricacies of digital s
 ## Skills
 
 - **Programming Languages**: C++, C#, Java, Bash, Python, and Assembly.
-- **Tools & Frameworks**: Packet Tracer, WireShark, Metasploit, Snort, and Nmap.
-- **Platforms**: Linux, Windows, and Cloudflare.
+- **Tools & Frameworks**: Packet Tracer, Wireshark, Metasploit, Snort, BloodHound, Docker, VMWare, Metasploit, Burp Suite, Nessus, AWS, and Azure.
+- **Platforms**: Linux, Windows, Cloudflare, and CentOS.
 - **Blogging**: As a hobby, I periodically blog about cybersecurity. You can find my posts on [Medium](https://medium.com/@radeel-a20).
 
 ## Experience
 
 - **Cyber Security Analyst** at [NCCS - National Center](https://www.nccs.pk/) Of Cybersecurity in collaboration with [Cybericks](https://cybericks.com/) (June 2024 - september 2024) [Hybrid]
+- Penetration Tester at [Pakistan National CERT](https://pkcert.gov.pk/) (May 2025 - Present) [On Site]
 
 ## Education
 
