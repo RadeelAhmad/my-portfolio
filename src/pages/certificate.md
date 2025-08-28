@@ -18,8 +18,8 @@ title: "Certifications"
 ---
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/cpts.png" alt="image1" width="400">
-    <p style="margin-left: 20px;"><strong>Certified Penetration Testing Specialist (CPTS)</strong><br>By Hack The Box</p>
+    <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/FullHouse.png" alt="image1" width="400">
+    <p style="margin-left: 20px;"><strong>Full House - Mini Pro Lab</strong><br>By Hack The Box</p>
 </div>
 
 ---
