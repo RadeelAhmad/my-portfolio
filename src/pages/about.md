@@ -40,6 +40,9 @@ A dedicated cyber enthusiast, I thrive on exploring the intricacies of digital s
   
 ## Achievements
 
+- **4th Place** at [Cyber Muhafiz CTF'25](https://neocyberrange.org/) organized by [Pakistan National CERT](https://pkcert.gov.pk/), onsite (2025)
+- **4th Place** at [SofTech CTF'25](https://softecnu.org/) organized by [Fast University Lahore](https://lhr.nu.edu.pk/), onsite (2025)
+- **50th Global Rank** at [PicoCTF'25](https://picoctf.org/competitions/2025-spring.html) organized by [PicoCTF](https://picoctf.org/), online (2025)
 - **68th Global Rank** at [Black Hat MEA 2024 CTF](https://blackhatmea.com/) organized by [Flagyard](https://flagyard.com/), onsite in Riyadh,Saudi Arabia(2024)
 - **98th Global Rank** at [CSWA CTF Qualifiers 2024](https://www.csaw.io/ctf) organized by [New York University](https://www.nyu.edu/), online (2024)
 - **4th Place** at [AirTech CTF'24](https://auair.tech/) organized by [Air University Islamabad](https://www.au.edu.pk/), onsite (2024)
@@ -53,6 +56,7 @@ A dedicated cyber enthusiast, I thrive on exploring the intricacies of digital s
 - [**GUI Based Network Monitoring System**](https://github.com/iabdullah215/OOP2): Designed a GUI Network Monitoring System using C# with user-friendly graphical interfaces for exploring network functionalities.
 - [**Blockchain Implementation**](https://github.com/RadeelAhmad/Block-Chain-Project): Developed a Java-based blockchain with features like user authentication, transaction tracking, and dynamic coin rate fluctuation. This project was a collaborative effort with [Muhammad Munib](https://www.linkedin.com/in/muhammad-munib-nawaz-7b8129292/), [Muhammad Abdullah](https://www.linkedin.com/in/muhammad-abdullah-691a1026a/), and [Husnain Tahir](https://www.linkedin.com/in/husnain-tahir-551921225/).
 - [**Bash Chat**](https://github.com/RadeelAhmad/Bash-Chat/tree/main): The Bash Chat Application is a simple yet effective way to facilitate communication between users on a local network. Leveraging the power of Bash scripting and the networking capabilities of Netcat, this application allows users to chat with each other in a terminal environment.
+- [**HeepHound**](https://github.com/iabdullah215/HeapHound): HeapHound is a Python-based tool built with my dear friend [Muhammad Munib](https://www.linkedin.com/in/muhammad-munib-nawaz-7b8129292/) and [Muhmmad Abdullah](https://www.linkedin.com/in/muhammad-abdullah-691a1026a/) for analyzing Java heap dump files (.hprof) to extract sensitive data, assess risks, and generate forensic reports. It identifies credentials, tokens, and other artifacts using built-in heuristics, producing reports in JSON, HTML, and text formats. Ideal for security investigations, malware analysis, and incident response.
 
 ## Additional Experiences
 
