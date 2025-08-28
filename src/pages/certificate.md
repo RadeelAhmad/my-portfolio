@@ -26,6 +26,13 @@ title: "Certifications"
 ---
 
 <div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/SkillFrontSFE016a74a7284d-4312524795629-1.png" alt="image1" width="400">
+    <p style="margin-left: 20px;"><strong>ISO/IEC 2700:2022 Information Security Associate</strong><br>By Skill Front</p>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/88eca662-0dff-4270-9c8d-0ab895696554.png" alt="image1" width="400">
     <p style="margin-left: 20px;"><strong>Network Defense Essentials</strong><br>By EC-Council</p>
 </div>
@@ -44,9 +51,3 @@ title: "Certifications"
     <p style="margin-left: 20px;"><strong>Career Essentials in GitHub</strong><br>By Linkedln, and Github</p>
 </div>
 
----
-
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/SkillFrontSFE016a74a7284d-4312524795629-1.png" alt="image1" width="400">
-    <p style="margin-left: 20px;"><strong>ISO/IEC 2700:2022 Information Security Associate</strong><br>By Skill Front</p>
-</div>
