@@ -22,12 +22,6 @@ title: "Certifications"
     <p style="margin-left: 20px;"><strong>Certified Network<br>Security Practitioner</strong><br>By The SecOps Group</p>
 </div>
 
----
-
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/RadeelAhmad/my-portfolio/main/src/pages/certificate-images/9a5dc0db-25e0-4a2c-9d17-fd31bd71da96.png" alt="image1" width="400">
-    <p style="margin-left: 20px;"><strong>Introduction to Dark Web</strong><br>By EC-Council</p>
-</div>
 
 ---
 
