@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>root@V3c70r:~# portfolio</title>
+<meta name="description" content="Radeel Ahmad (V3c70r) — Cybersecurity Analyst, Penetration Tester, CTF Player.">
+<link rel="icon" type="image/jpeg" href="favicon-panda.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<canvas id="matrix"></canvas>
+
+<div class="statusbar">
+  <span class="statusbar-left">
+    <span class="dot-live"></span>
+    V3c70r@kali <span class="dim">·</span> MODE: <span id="statusMode">connected</span>
+  </span>
+  <span class="statusbar-right">
+    <span id="clock">00:00:00</span>
+    <span class="dim">|</span>
+    <span id="battery">98%</span>
+  </span>
+</div>
+
+<main class="desktop">
+
+  <section class="hero">
+    <div class="window" id="win-hero">
+      <div class="window-titlebar">
+        <span class="dot dot-red" data-close="win-hero"></span>
+        <span class="dot dot-yellow"></span>
+        <span class="dot dot-green"></span>
+        <span class="window-title">bash — whoami.sh</span>
+        <span class="window-badge">LIVE</span>
+      </div>
+      <div class="window-body">
+        <p class="line">V3c70r@kali:~$ <span class="cmd" id="typedCmd"></span><span class="cursor" id="cmdCursor">_</span></p>
+        <pre id="whoamiOutput" class="typed-output"></pre>
+        <p class="line prompt-caret" id="finalPrompt" style="display:none">V3c70r@kali:~$ <span class="cursor">_</span></p>
+      </div>
+    </div>
+
+    <div class="intro-reveal" id="introReveal">
+      <nav class="nav-pills" id="navPills">
+        <button data-target="about">./about.sh</button>
+        <button data-target="experience">./experience.sh</button>
+        <button data-target="projects">./projects.sh</button>
+        <button data-target="blog">./blog.sh</button>
+        <button data-target="certificate">./certificate.sh</button>
+      </nav>
+      <p class="scroll-hint">&#8597; scroll or open windows above</p>
+    </div>
+  </section>
+
+  <section class="windows-area" id="windowsArea">
+
+    <!-- ABOUT -->
+    <div class="window app-window" id="win-about" data-app>
+      <div class="window-titlebar" data-drag-handle>
+        <span class="dot dot-red" data-close="win-about"></span>
+        <span class="dot dot-yellow"></span>
+        <span class="dot dot-green"></span>
+        <span class="window-title">about.sh — bash</span>
+      </div>
+      <div class="window-body">
+        <p class="line">$ <span class="cmd">cat about.txt</span></p>
+        <p class="output-text">
+          I'm Radeel Ahmad, a Cyber Security professional and Cyber Security student with a strong interest in
+          Offensive Security, Red Teaming, Penetration Testing, and Network Security.
+        </p>
+        <p class="output-text">
+          I enjoy understanding how systems work, identifying security weaknesses, and developing practical solutions
+          to improve security. My experience includes working with tools such as Burp Suite, Nmap, Wireshark,
+          Metasploit, Nuclei, Gobuster, SQLMap, and Nessus, along with hands-on experience in web application,
+          network, and infrastructure security.
+        </p>
+        <p class="output-text">
+          I'm also an active CTF player and Team Lead, participating in competitive cybersecurity challenges and
+          solving problems across areas including web security, network security, cryptography, and exploitation.
+        </p>
+        <p class="output-text">
+          Alongside security research and CTFs, I work on practical projects such as DeepTrace, an advanced IPDR
+          and network traffic analysis system designed to visualize network activity and detect potentially
+          malicious traffic.
+        </p>
+        <p class="output-text">
+          I'm continuously learning, building, and exploring new areas of cybersecurity with the goal of becoming
+          a highly skilled Cyber Security Analyst and Red Teamer.
+        </p>
+        <div class="stat-grid">
+          <div class="stat-box"><span class="stat-label">FOCUS</span><span class="stat-value">Red Teaming &amp; Pentesting</span></div>
+          <div class="stat-box"><span class="stat-label">EDUCATION</span><span class="stat-value">BS Cyber Security, Air University (2022–2026)</span></div>
+          <div class="stat-box"><span class="stat-label">LOCATION</span><span class="stat-value">Islamabad, Pakistan</span></div>
+          <div class="stat-box"><span class="stat-label">STATUS</span><span class="stat-value accent">Open to opportunities</span></div>
+        </div>
+        <p class="line" style="margin-top:1.25rem">$ <span class="cmd">./skills.sh --list</span></p>
+        <div class="skill-category">
+          <p class="skill-cat-label">Programming Languages</p>
+          <div class="tool-chips">
+            <span>Python</span><span>SQL</span><span>C++</span><span>C#</span>
+            <span>Bash</span><span>Scripting</span><span>Assembly Language</span><span>JavaScript</span>
+          </div>
+        </div>
+        <div class="skill-category">
+          <p class="skill-cat-label">Platforms</p>
+          <div class="tool-chips">
+            <span>Linux</span><span>Windows</span><span>DigitalOcean</span><span>CentOS</span>
+          </div>
+        </div>
+        <div class="skill-category">
+          <p class="skill-cat-label">Tools &amp; Frameworks</p>
+          <div class="tool-chips">
+            <span>Packet Tracer</span><span>Wireshark</span><span>SQLMap</span><span>Snort</span>
+            <span>BloodHound</span><span>Acunetix</span><span>VMWare</span><span>Metasploit</span>
+            <span>Burp Suite</span><span>Nessus</span><span>Invicti</span><span>Azure</span>
+          </div>
+        </div>
+        <p class="line" style="margin-top:1.25rem">$ <span class="cmd">cat achievements.log</span></p>
+        <ul class="log-list">
+          <li><span class="accent">4th</span> — Cyber Muhafiz CTF'25, Pakistan National CERT (2025)</li>
+          <li><span class="accent">4th</span> — SofTech CTF'25, FAST NU Lahore (2025)</li>
+          <li><span class="accent">50th</span> global — PicoCTF'25 (2025)</li>
+          <li><span class="accent">50th</span> global — Black Hat MEA 2025 CTF, Riyadh (2025)</li>
+          <li><span class="accent">68th</span> global — Black Hat MEA 2024 CTF, Riyadh (2024)</li>
+          <li><span class="accent">98th</span> global — CSAW CTF Qualifiers, NYU (2024)</li>
+          <li><span class="accent">4th</span> — AirTech CTF'24, Air University (2024)</li>
+          <li><span class="accent">5th</span> — SofTech CTF'24, FAST NU Lahore (2024)</li>
+          <li><span class="accent">6th</span> — Digital Pakistan Cyber Security Hackathon (2024)</li>
+          <li><span class="accent">5th</span> — CyberQuest CTF'23 (2023)</li>
+        </ul>
+        <p class="line" style="margin-top:1.25rem">$ <span class="cmd">./contact.sh --new-message</span></p>
+        <div class="social-row">
+          <a class="social-btn" href="mailto:mr.radeelahmad@icloud.com">email</a>
+          <a class="social-btn" href="https://github.com/RadeelAhmad" target="_blank" rel="noopener">github</a>
+          <a class="social-btn" href="https://www.linkedin.com/in/radeel-ahmad-866a50293/" target="_blank" rel="noopener">linkedin</a>
+          <a class="social-btn" href="https://www.instagram.com/__radeel__khokhar__/" target="_blank" rel="noopener">instagram</a>
+          <a class="social-btn" href="https://www.facebook.com/profile.php?id=61555552723687" target="_blank" rel="noopener">facebook</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- EXPERIENCE -->
+    <div class="window app-window wide" id="win-experience" data-app>
+      <div class="window-titlebar" data-drag-handle>
+        <span class="dot dot-red" data-close="win-experience"></span>
+        <span class="dot dot-yellow"></span>
+        <span class="dot dot-green"></span>
+        <span class="window-title">experience.sh — bash</span>
+      </div>
+      <div class="window-body">
+        <p class="line">$ <span class="cmd">ls -la ./experience/</span></p>
+        <div class="project-grid experience-grid" id="experienceGrid"></div>
+      </div>
+    </div>
+
+    <!-- PROJECTS -->
+    <div class="window app-window wide" id="win-projects" data-app>
+      <div class="window-titlebar" data-drag-handle>
+        <span class="dot dot-red" data-close="win-projects"></span>
+        <span class="dot dot-yellow"></span>
+        <span class="dot dot-green"></span>
+        <span class="window-title">projects.sh — bash</span>
+      </div>
+      <div class="window-body">
+        <p class="line">$ <span class="cmd">ls -la ./projects/ | grep -v .git</span></p>
+        <div class="project-grid" id="projectGrid"></div>
+      </div>
+    </div>
+
+    <!-- BLOG -->
+    <div class="window app-window wide" id="win-blog" data-app>
+      <div class="window-titlebar" data-drag-handle>
+        <span class="dot dot-red" data-close="win-blog"></span>
+        <span class="dot dot-yellow"></span>
+        <span class="dot dot-green"></span>
+        <span class="window-title">blog.sh — bash</span>
+      </div>
+      <div class="window-body">
+        <p class="line">$ <span class="cmd">ls -la ./blog/posts/</span></p>
+        <div class="project-grid" id="blogGrid"></div>
+      </div>
+    </div>
+
+    <!-- CERTIFICATE -->
+    <div class="window app-window wide" id="win-certificate" data-app>
+      <div class="window-titlebar" data-drag-handle>
+        <span class="dot dot-red" data-close="win-certificate"></span>
+        <span class="dot dot-yellow"></span>
+        <span class="dot dot-green"></span>
+        <span class="window-title">certificate.sh — bash</span>
+      </div>
+      <div class="window-body">
+        <p class="line">$ <span class="cmd">ls -la ./certificate/</span></p>
+        <div class="project-grid" id="certificateGrid"></div>
+      </div>
+    </div>
+
+  </section>
+</main>
+
+<!-- Project detail modal -->
+<div class="modal-backdrop" id="modalBackdrop">
+  <div class="window" id="win-modal">
+    <div class="window-titlebar">
+      <span class="dot dot-red" data-close-modal></span>
+      <span class="dot dot-yellow"></span>
+      <span class="dot dot-green"></span>
+      <span class="window-title" id="modalTitle"></span>
+    </div>
+    <div class="window-body">
+      <p class="output-text" id="modalCategory"></p>
+      <img id="modalImage" class="modal-image" alt="">
+      <p class="output-text" id="modalDesc"></p>
+      <ul class="log-list" id="modalBullets"></ul>
+      <div class="blog-body" id="modalBlogBody"></div>
+      <div class="tool-chips" id="modalTags"></div>
+      <a href="#" id="modalLink" target="_blank" rel="noopener" class="modal-source-link">view source &#8599;</a>
+      <button class="close-fn-btn" id="modalCloseBtn">close_window()</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast-container" id="toastContainer"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
